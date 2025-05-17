@@ -1,7 +1,7 @@
 ﻿
-# WaveNetX
+# QMFnet: Learning Quadrature Mirror Filter Banks for Image Segmentation
 
-This is the official code of WaveNetX, incorporating trainable Wavelets into wavelet-based image segmentation networks. It is inspired by XNet v2 (BIBM 2024).
+This is the official code of QMFnet, incorporating trainable Wavelets into wavelet-based image segmentation networks. It is inspired by XNet v2 (BIBM 2024).
 
 ## Requirements
 This code has been designed and optimized to be run on both Metal and Cuda-enabled device. It is also possible to run on CPU but is not recommended.
